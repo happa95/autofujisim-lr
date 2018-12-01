@@ -2,7 +2,7 @@
 
 This is a simple plugin to address a really annoying problem when working with Fujifilm's RAW (RAF) files in Lightroom: film simulations. 
 
-Imagine you are out shooting and you think to yourself, wow, that abandoned house would look *really* great in black and white, so you switch to the ACROS simulation. Later on, you come across a beautiful autumn scene, bursting with colors, that is really just begging for the Velvia/Vivid simulation. So far so good, but when you get home and import these photos into Lightroom, all of your photos will default to "Adobe Color." 
+Imagine you are out shooting and you think to yourself, wow, that abandoned house would look *really* great in black and white, so you switch to the ACROS simulation. Later on, you come across a beautiful autumn scene, bursting with colors, that is just begging for the Velvia/Vivid simulation. So far so good, but when you get home and import these photos into Lightroom, all of your photos will default to "Adobe Color." 
 
 ![Sigh](https://media.giphy.com/media/uY0zZnQqZD8Jy/giphy.gif)
 
